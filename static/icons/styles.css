@@ -53,6 +53,9 @@
 .icon-youtube:before {
   content: "\65";
 }
+.icon-search:before {
+  content: "\67";
+}
 .icon-share:before {
-  content: "\66";
+  content: "\68";
 }
