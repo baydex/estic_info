@@ -1,7 +1,8 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 html,body{
     width: 100%;
@@ -192,6 +193,7 @@ main{
 footer p{
     margin: 30px;
     font-size: 1.3em;
+    
 }
 .final-footer{
     background-color: black;
